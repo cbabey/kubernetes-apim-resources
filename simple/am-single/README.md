@@ -2,6 +2,8 @@
 
 This repository is designed to help you learn the basics of Kubernetes (K8s) resources, with a focus on deploying an API Manager (APIM) single-node instance into a Kubernetes cluster.
 
+<img width="860" alt="apimk8" src="https://github.com/cbabey/kubernetes-apim-resources/assets/42814210/5a263132-e3bd-43fc-b2f4-0aecefd0bcf6">
+
 ## Prerequisites
 
 Before deploying the K8s resources in this repository, ensure you have completed the following prerequisites:
@@ -10,7 +12,7 @@ Before deploying the K8s resources in this repository, ensure you have completed
 2. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git),[Kubernetes client](https://kubernetes.io/docs/tasks/tools/install-kubectl/) in order to run the steps provided in the
   following quick start guide.
 2. Install [NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/deploy/).
-3. Clone this repository.
+3. Clone [this github repository](https://github.com/cbabey/kubernetes-apim-resources).
 
 ##  Setup and Apply K8s Resources
 
