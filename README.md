@@ -6,4 +6,4 @@ This repository is designed to help you learn the basics of Kubernetes (K8s) res
 
 ### Simple
 
-* [Single Node]([simple/am-single/README.md](https://github.com/cbabey/kubernetes-apim-resources/tree/main/simple/am-single#kubernetes-apim-deployment-single-node-deployment)https://github.com/cbabey/kubernetes-apim-resources/tree/main/simple/am-single#kubernetes-apim-deployment-single-node-deployment)
+* [Single Node](https://github.com/cbabey/kubernetes-apim-resources/tree/main/simple/am-single#kubernetes-apim-deployment-single-node-deployment)
